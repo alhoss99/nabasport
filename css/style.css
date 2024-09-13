@@ -1,4 +1,10 @@
 /* Base */
+* {
+  font-size: 100.01%; }
+
+html {
+  font-size: 62.5%;
+  height: 100%; }
 body {
   direction: rtl;
   text-align: right;
@@ -9,6 +15,7 @@ body {
   font-size: 16px;
   font-family: 'Cairo', sans-serif;
 }
+
 
 ::-moz-selection {
   background: #000;
@@ -284,6 +291,12 @@ h1, h2, h3, h4, h5,
   font-size: 1.3rem; }
   .site-logo a {
     color: #fff; }
+    .site-logo img {
+      width: 90px; /* يمكنك ضبط الحجم حسب الحاجة */
+      height: auto; /* للحفاظ على النسبة بين العرض والطول */
+      display: block; /* للتأكد من أن الصورة تكون كتلة وتتناسب مع الحاوية */
+    }
+    
 
 .site-navbar {
   margin-bottom: 0px;
