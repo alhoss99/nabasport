@@ -266,11 +266,6 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
 
 ---
 
-
-![vCard Desktop Demo](./images/Screenshot.jpg "Desktop Demo") 
-
-
----
 ### System Architecture
 
 The project follows a modular architecture to ensure scalability and easy maintenance. Below is a high-level overview of the system architecture:
