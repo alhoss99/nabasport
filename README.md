@@ -58,10 +58,6 @@ The API consists of several core components, each playing a vital role in the sy
     - Upon successful payment, a ticket receipt is generated containing all booking details.
 
 ---
-Here is the updated `README.md` code including your snippets:
-
-```markdown
-# Movie Ticket Booking System
 
 ## Code Snippets and Examples
 
