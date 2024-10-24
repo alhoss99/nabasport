@@ -10,27 +10,24 @@ The Movie Ticket Booking System is designed to streamline the process of booking
 1. **Download the Project**:
     - Clone or download the project from the following GitHub repository: [Online Movie Ticket Booking System](https://github.com/rabakkar/Online-Movie-Ticket-Booking-System).
 
-2. **Download ZIP File**:
-    - Download the ZIP file containing the project from GitHub and unzip it on your local server.
-
-3. **Install NetBeans 8.2**:
+2. **Install NetBeans 8.2**:
     - Download and install **NetBeans 8.2 IDE** for working with the Java project.
 
-4. **Install XAMPP**:
+3. **Install XAMPP**:
     - Download and install **XAMPP** for running Apache and MySQL services.
 
-5. **Start MySQL**:
+4. **Start MySQL**:
     - Open XAMPP and click **Start** to ensure MySQL is running.
 
-6. **Database Setup**:
+5. **Database Setup**:
     - Open your browser and go to [phpMyAdmin](http://localhost/phpmyadmin/).
     - Create a new database named `Movie`.
     - Import the `Movie.sql` file located in the project folder into the database.
 
-7. **Open the Project in NetBeans**:
+6. **Open the Project in NetBeans**:
     - Open **NetBeans** and navigate to the unzipped folder to open the `movieticketbooking` project.
 
-8. **Connect the Database**:
+7. **Connect the Database**:
     - Ensure that the project is properly connected to the newly created `Movie` database.
 
 ---
@@ -58,7 +55,7 @@ The API consists of several core components, each playing a vital role in the sy
     - Supports various payment methods such as credit cards, debit cards, and online wallets.
     
 - **Ticket Generation Module**:
-    - Upon successful payment, a ticket receipt is generated containing all booking details, which can be printed or displayed on the user’s device for admission.
+    - Upon successful payment, a ticket receipt is generated containing all booking details.
 
 ---
 
