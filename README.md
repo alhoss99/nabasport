@@ -266,6 +266,9 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
 
 ---
 ![vCard Desktop Demo](images/Screenshot.jpg "Desktop Demo")
+
+
+![vCard Desktop Demo](./images/Screenshotejpg "Desktop Demo") 
  
 ### System Architecture
 
