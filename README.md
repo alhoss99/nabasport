@@ -5,18 +5,6 @@ The Movie Ticket Booking System is designed to streamline the process of booking
 
 ---
 
-## API Documentation
-
-This section provides a detailed guide for developers integrating with the Movie Ticket Booking System API.
-
-### Audience
-- **Developers** working to integrate this API with their applications or platforms.
-
-### Platform
-- Hosted on **GitHub**, the repository is publicly accessible to provide open access to the project.
-
----
-
 ### Installation Steps
 
 1. **Download the Project**:
