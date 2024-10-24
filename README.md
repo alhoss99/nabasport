@@ -265,7 +265,7 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
 - When a user fills in their registration details and clicks the "SIGN UP" button, the `jButton1ActionPerformed` method is triggered to save the information and redirect to the login screen.
 
 ... 
-![vCard Desktop Demo](./image/Screenshot_-o.4r9_Y-PE)-YE_Drive.jpg "Desktop Demo") 
+![vCard Desktop Demo](./image/Screenshot.jpg "Desktop Demo") 
 ... 
 ### System Architecture
 
