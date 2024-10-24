@@ -264,9 +264,13 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
 **Example Usage**:
 - When a user fills in their registration details and clicks the "SIGN UP" button, the `jButton1ActionPerformed` method is triggered to save the information and redirect to the login screen.
 
-... 
-![vCard Desktop Demo](./Images/Screenshot.jpg "Desktop Demo") 
-... 
+---
+
+
+![vCard Desktop Demo](./images/Screenshot.jpg "Desktop Demo") 
+
+
+---
 ### System Architecture
 
 The project follows a modular architecture to ensure scalability and easy maintenance. Below is a high-level overview of the system architecture:
