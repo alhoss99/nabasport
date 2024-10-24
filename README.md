@@ -17,6 +17,36 @@ This section provides a detailed guide for developers integrating with the Movie
 
 ---
 
+### Installation Steps
+
+1. **Download the Project**:
+    - Clone or download the project from the following GitHub repository: [Online Movie Ticket Booking System](https://github.com/rabakkar/Online-Movie-Ticket-Booking-System).
+
+2. **Download ZIP File**:
+    - Download the ZIP file containing the project from GitHub and unzip it on your local server.
+
+3. **Install NetBeans 8.2**:
+    - Download and install **NetBeans 8.2 IDE** for working with the Java project.
+
+4. **Install XAMPP**:
+    - Download and install **XAMPP** for running Apache and MySQL services.
+
+5. **Start MySQL**:
+    - Open XAMPP and click **Start** to ensure MySQL is running.
+
+6. **Database Setup**:
+    - Open your browser and go to [phpMyAdmin](http://localhost/phpmyadmin/).
+    - Create a new database named `Movie`.
+    - Import the `Movie.sql` file located in the project folder into the database.
+
+7. **Open the Project in NetBeans**:
+    - Open **NetBeans** and navigate to the unzipped folder to open the `movieticketbooking` project.
+
+8. **Connect the Database**:
+    - Ensure that the project is properly connected to the newly created `Movie` database.
+
+---
+
 ### Core Components
 
 The API consists of several core components, each playing a vital role in the system:
@@ -51,14 +81,11 @@ To get started with the Movie Ticket Booking System API:
 1. **Create a GitHub Account**: 
     - If you don't have a GitHub account, sign up [here](https://github.com/).
     
-2. **Upload the Project**:
-    - Download the project files and upload them to your GitHub repository.
-    
-3. **Repository Setup**:
+2. **Repository Setup**:
     - Include a detailed description page for each component or module within the repository.
     - Add the system architecture diagram to the main page of the repository for easy reference.
 
-4. **Access Settings**:
+3. **Access Settings**:
     - Make sure to set the repository access to **public** so other developers can view and contribute.
 
 ---
